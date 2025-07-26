@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hello there 👋
 
-<!--
-**Mikolaj-o7/Mikolaj-o7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Mikołaj — a self-taught developer from Poland 🇵🇱
 
-Here are some ideas to get you started:
+🚀 Currently building [**Clover**](https://github.com/Mikolaj-o7/cloverlang) — a **modern, low-level, open-source, performance-oriented compiled programming language**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Get in Touch
+
+- 📧 Email: mikolajlaskowski7@gmail.com
+- 🗂️ Check out my repositories to see what I'm working on!
+
+Thanks for stopping by!
